@@ -19,7 +19,7 @@ namespace Win.HolaMundo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo!!");
+            MessageBox.Show("Josué 1:9 Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas");
         }
     }
 }
